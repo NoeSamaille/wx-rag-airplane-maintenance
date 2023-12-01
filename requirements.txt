@@ -1,0 +1,5 @@
+ibm-watson-machine-learning
+chromadb==0.4.15
+langchain
+pypdf
+sentence_transformers
