@@ -11,9 +11,9 @@ Python `3.10` or `3.11`.
 ```sh
 python -m pip install -r requirements.txt
 wget https://sportflyingusa.com/wp-content/uploads/2020/08/Maintenance-Manual.pdf
-export WX_API_KEY=<ibm-cloud-api-key>
-export WX_PROJECT_ID=<watsonx-ai-project-id>
-export WX_URL=https://us-south.ml.cloud.ibm.com # https://eu-de.ml.cloud.ibm.com for Frankfurt
+export WATSONX_API_KEY=<ibm-cloud-api-key>
+export WATSONX_PROJECT_ID=<watsonx-ai-project-id>
+export WATSONX_URL=https://us-south.ml.cloud.ibm.com # https://eu-de.ml.cloud.ibm.com for Frankfurt
 python main.py
 ```
 

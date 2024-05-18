@@ -1,5 +1,7 @@
-ibm-watson-machine-learning
+ibm-watsonx-ai==1.0.4
 chromadb==0.4.15
-langchain
+langchain==0.2.0
+langchain-community==0.2.0
+langchain-ibm==0.1.7
 pypdf
 sentence_transformers
